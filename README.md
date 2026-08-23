@@ -27,7 +27,7 @@ O CSS também foi usado para adicionar um **fundo com imagem**, efeito de **tran
 ```text
 index.html
 style.css
-readme.txt 
+README.md
 ```
 
 ## Como executar
